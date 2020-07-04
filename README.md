@@ -1,6 +1,6 @@
 # <b>Program flow: Version 1</b>
 
-##<b>User:</b>
+## <b>User:</b>
  * inputs 'yes' or 'no'
 
 ## <b>Program:</b>
