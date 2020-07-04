@@ -13,10 +13,12 @@ while yesOrNo != 'yes' or yesOrNo != 'no':
   if yesOrNo == 'yes':
     print('It looks like you want us to open the webpage! Here you go.')
     webbrowser.open('https://www.census.gov/data/tables.html')
+    input('\nPress any key to exit the program.')
     break
   
   elif yesOrNo == 'no':
     print('We hope you have a nice day!')
+    input('\nPress any key to exit the program.')
     break
 
   else:
