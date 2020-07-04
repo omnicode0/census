@@ -1,4 +1,14 @@
-# <b>Program flow:</b>
+# <b>Program flow: Version 1</b>
+
+##<b>User:</b>
+ * inputs 'yes' or 'no'
+
+## <b>Program:</b>
+ * If 'yes': navigate to webpage
+ * If 'no': exit program
+ * If other: instruct user to input 'yes' or 'no'
+
+# <b>Program flow: Eventual Final Product</b>
 
 ## <b>Program:</b>
   * Introduction statement
