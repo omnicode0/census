@@ -1,3 +1,17 @@
+# <b>Program flow: Version 2</b>
+
+## <b>Program</b>
+ * (NEW BRANCH FOR THIS) web scrape to populate a real time showing of available surveys
+ * Store a list of available surveys the Census Bureau has
+ * Print the list available surveys the Census Bureau has
+ * Ask the user for input, typing the name of the survey they want to use
+
+## <b>User:</b>
+ * inputs the name of the survey they would like to use
+
+## <b>Program</b>
+ * Prints back the name of the survey they would like to use
+
 # <b>Program flow: Version 1</b>
 
 ## <b>User:</b>
