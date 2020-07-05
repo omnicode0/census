@@ -1,1 +1,15 @@
 #!/usr/bin/env python3
+
+survey = 0
+
+surveys_list = sorted(['County Business Patterns', 'American Community Survey', 'Quarterly Services Survey'])
+
+print("\n".join(surveys_list))
+
+while survey not in surveys_list:
+  survey = str(input('\nWhich survey would you like to use? Type it exactly as it appears in the list above: '))
+  if survey not in surveys_list:
+    print('I couldn\'t understand you. Please type the survey exactly as it appears')
+    
+print('You have selected: ' + survey)
+
